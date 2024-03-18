@@ -2,3 +2,6 @@
 *.log
 
 CatePoseEstimation/
+
+__pycache__/
+log/
