@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pillow
 matplotlib
 kornia
+=======
+pillow
+matplotlib
+kornia
+>>>>>>> 3bfad1d546ae094d741de6c83feb5d8a44492cfc
 opencv-python
